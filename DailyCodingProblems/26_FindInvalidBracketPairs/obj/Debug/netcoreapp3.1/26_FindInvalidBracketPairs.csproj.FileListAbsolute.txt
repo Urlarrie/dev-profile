@@ -1,0 +1,12 @@
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\bin\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.exe
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\bin\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.deps.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\bin\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\bin\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.runtimeconfig.dev.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\bin\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\bin\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\obj\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\obj\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\obj\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\obj\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\obj\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodinigProblem26\DailyCodinigProblem26\obj\Debug\netcoreapp3.1\26_FindInvalidBracketPairs.genruntimeconfig.cache

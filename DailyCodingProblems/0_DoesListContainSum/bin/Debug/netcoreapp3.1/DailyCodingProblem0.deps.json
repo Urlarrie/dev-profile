@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DailyCodingProblem0/1.0.0": {
+        "runtime": {
+          "DailyCodingProblem0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DailyCodingProblem0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

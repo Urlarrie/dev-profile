@@ -1,0 +1,16 @@
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DailyCodingProblem73.exe
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DailyCodingProblem73.deps.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DailyCodingProblem73.runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DailyCodingProblem73.runtimeconfig.dev.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DailyCodingProblem73.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DailyCodingProblem73.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.csprojAssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.csproj.CopyComplete
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem73\DailyCodingProblem73\obj\Debug\netcoreapp3.1\DailyCodingProblem73.genruntimeconfig.cache
