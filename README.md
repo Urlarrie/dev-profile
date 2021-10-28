@@ -37,7 +37,7 @@ Feel free to explore and hope you leave with something!
 ### In-Progress Projects
 - [ ] Unnamed Game
 ### Completed Projects
-- [ ] Meltdown(School Project)
+- [X] Meltdown(School Project)
 ## Links
 **Dev Site:** _Coming Soon_
 
