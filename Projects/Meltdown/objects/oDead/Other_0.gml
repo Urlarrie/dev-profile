@@ -1,0 +1,1 @@
+if (vsp < 0) {room_restart()}

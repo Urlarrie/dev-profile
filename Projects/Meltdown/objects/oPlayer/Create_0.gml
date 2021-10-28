@@ -1,0 +1,11 @@
+hsp = 0;
+vsp = 0;
+grv = 0.2;
+walksp = 4;
+sprintsp = 7;
+firingdelay = 0;
+jumpspeed = 12;
+hascontrol = true;
+hp = 10;
+max_hp = hp;
+flash = 0;
