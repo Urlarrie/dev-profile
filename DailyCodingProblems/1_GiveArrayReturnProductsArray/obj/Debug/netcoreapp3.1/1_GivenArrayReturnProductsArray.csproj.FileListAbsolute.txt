@@ -11,3 +11,16 @@ C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingPr
 C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem1\DailyCodingProblem1\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.dll
 C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem1\DailyCodingProblem1\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.pdb
 C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem1\DailyCodingProblem1\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.genruntimeconfig.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\bin\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.exe
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\bin\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.deps.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\bin\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\bin\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.runtimeconfig.dev.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\bin\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\bin\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.csprojAssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\1_GiveArrayReturnProductsArray\obj\Debug\netcoreapp3.1\1_GivenArrayReturnProductsArray.genruntimeconfig.cache

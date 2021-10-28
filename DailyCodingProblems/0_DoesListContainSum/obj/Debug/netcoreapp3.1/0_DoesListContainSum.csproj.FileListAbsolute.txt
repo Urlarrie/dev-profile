@@ -11,3 +11,16 @@ C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingPr
 C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem0\DailyCodingProblem0\obj\Debug\netcoreapp3.1\0_DoesListContainSum.dll
 C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem0\DailyCodingProblem0\obj\Debug\netcoreapp3.1\0_DoesListContainSum.pdb
 C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblem0\DailyCodingProblem0\obj\Debug\netcoreapp3.1\0_DoesListContainSum.genruntimeconfig.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\bin\Debug\netcoreapp3.1\0_DoesListContainSum.exe
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\bin\Debug\netcoreapp3.1\0_DoesListContainSum.deps.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\bin\Debug\netcoreapp3.1\0_DoesListContainSum.runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\bin\Debug\netcoreapp3.1\0_DoesListContainSum.runtimeconfig.dev.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\bin\Debug\netcoreapp3.1\0_DoesListContainSum.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\bin\Debug\netcoreapp3.1\0_DoesListContainSum.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\obj\Debug\netcoreapp3.1\0_DoesListContainSum.csprojAssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\obj\Debug\netcoreapp3.1\0_DoesListContainSum.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\obj\Debug\netcoreapp3.1\0_DoesListContainSum.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\obj\Debug\netcoreapp3.1\0_DoesListContainSum.csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\obj\Debug\netcoreapp3.1\0_DoesListContainSum.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\obj\Debug\netcoreapp3.1\0_DoesListContainSum.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\0_DoesListContainSum\obj\Debug\netcoreapp3.1\0_DoesListContainSum.genruntimeconfig.cache

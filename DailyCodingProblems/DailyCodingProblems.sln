@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26_FindInvalidBracketPairs"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73_ReversingLinkedList", "73_ReversingLinkedList\73_ReversingLinkedList.csproj", "{FB2266CF-B845-4B11-9F7B-268FEA483979}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_SerializeDeserealizeBinaryTree(NotFinished)", "Project1\2_SerializeDeserealizeBinaryTree(NotFinished).csproj", "{B77A33AF-AC26-4253-87C5-93778AA8A064}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "79_CanListBeNonDecreasing(NotFinished)", "79_CanListBeNonDecreasing\79_CanListBeNonDecreasing(NotFinished).csproj", "{663867BD-A3E6-4AEC-91BA-14D779144536}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{FB2266CF-B845-4B11-9F7B-268FEA483979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB2266CF-B845-4B11-9F7B-268FEA483979}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB2266CF-B845-4B11-9F7B-268FEA483979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77A33AF-AC26-4253-87C5-93778AA8A064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77A33AF-AC26-4253-87C5-93778AA8A064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77A33AF-AC26-4253-87C5-93778AA8A064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77A33AF-AC26-4253-87C5-93778AA8A064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663867BD-A3E6-4AEC-91BA-14D779144536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663867BD-A3E6-4AEC-91BA-14D779144536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663867BD-A3E6-4AEC-91BA-14D779144536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663867BD-A3E6-4AEC-91BA-14D779144536}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

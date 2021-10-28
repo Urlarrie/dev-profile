@@ -1,0 +1,13 @@
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\bin\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).exe
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\bin\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).deps.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\bin\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\bin\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).runtimeconfig.dev.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\bin\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\bin\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\obj\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).csprojAssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\obj\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\obj\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\obj\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\obj\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\obj\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\Project1\obj\Debug\netcoreapp3.1\2_SerializeDeserealizeBinaryTree(NotFinished).genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\DataStructuresTests\obj\Debug\.netcoreapp,version=v3.1\DataStructuresTests.csprojAssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\DataStructuresTests\obj\Debug\.netcoreapp,version=v3.1\DataStructuresTests.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\DataStructuresTests\obj\Debug\.netcoreapp,version=v3.1\DataStructuresTests.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\DataStructuresTests\obj\Debug\.netcoreapp,version=v3.1\DataStructuresTests.csproj.CoreCompileInputs.cache

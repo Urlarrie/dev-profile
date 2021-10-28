@@ -6,10 +6,4 @@
     <AssemblyName>73_ReversingLinkedList</AssemblyName>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="DataStructures">
-      <HintPath>..\..\..\..\3_DataStructuresAlgorithims\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

@@ -1,0 +1,13 @@
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.exe
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.deps.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\3_DataStructuresAlgorithims\DataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
