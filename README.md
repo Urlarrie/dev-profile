@@ -2,7 +2,7 @@
 ## Intro
 Hi, my name is Uhlan Larrie, and welcome to my development profile on Github! Here I showcase my projects, different programming problem solutions, and my general progress in learning certain things like programming languages or data structures.
 
-I am currently not in school, though I do have one school project name **Meltdown** uploaded: my FEDD(First-Year Engineering Design Day) Project where I designed a game using Game Maker Studio 2. I worked in a team of three, my role being the lead programmer(only because no one else knew how to program or cared to learn so I ended up writing the whole game--good experience at least...somewhat inspiring tbh), to design an educational computer game. I suggested nuclear fusion as a topic(as it was something I was extremely passionate about at the time--and still am, though, less so), and, thus, the game. While it's not my best work and was written about three years ago, I feel it's important to show.  
+I am currently not in school, though I do have one school project name **Meltdown** uploaded: my FEDD(First-Year Engineering Design Day) Project where I designed a game using **Game Maker Studio 2**. I worked in a team of three, my role being the lead programmer(only because no one else knew how to program or cared to learn so I ended up writing the whole game--good experience at least...somewhat inspiring tbh), to design an educational computer game. I suggested nuclear fusion as a topic(as it was something I was extremely passionate about at the time--and still am, though, less so), and, thus, the game. While it's not my best work and was written about three years ago, I feel it's important to show.  
 
 Feel free to explore and hope you leave with something!
 
