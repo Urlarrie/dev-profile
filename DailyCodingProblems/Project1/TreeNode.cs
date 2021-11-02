@@ -47,15 +47,5 @@ namespace DailyCodingProblem2.DataStructure
             this.left = left;
             this.right = right;
         }
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="root"></param>
-        /// <returns></returns>
-        public string Serialize(TreeNode<T> root)
-        {
-            return null;
-        }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\bin\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).exe
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\bin\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).deps.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\bin\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\bin\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).runtimeconfig.dev.json
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\bin\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\bin\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\obj\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).csprojAssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\obj\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\obj\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\obj\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\obj\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).dll
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\obj\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).pdb
+C:\Users\Uhlan Larrie\Documents\3_Coding\1_C#\2_DailyCodingProblem\DailyCodingProblems\79_CanListBeNonDecreasing\obj\Debug\netcoreapp3.1\79_CanListBeNonDecreasing(NotFinished).genruntimeconfig.cache
