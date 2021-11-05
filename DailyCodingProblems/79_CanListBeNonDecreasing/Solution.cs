@@ -36,23 +36,48 @@ namespace DailyCodingProblem79
     {
         public static Func<int[], bool> DetermineIfCanBeNonDescending = (int[] array) =>
         {
+            //iterate through array
+            //count number of times the value after is less than the one before
             bool canBeNonDescending = false;
+            bool greatestEncounteredReset = false;
             int lessThanCount = 0;
+            int max = 0;
+            int possibleGreatestNumberEncountered = 0;
 
             for(int i = 0; i < array.Length; i++)
             {
-                if (i < array.Length - 1 && array[i] > array[i + 1])
+                if(max < array[i])
                 {
-                    for (int j = i; j < array.Length; j++)
+                    max = array[i];
+                    possibleGreatestNumberEncountered = array[i];
+                }
+                else if(!greatestEncounteredReset && max > array[i])
+                {
+                    if(possibleGreatestNumberEncountered > array[i])
                     {
+                        possibleGreatestNumberEncountered = array[i];
+                        lessThanCount++;
+                        greatestEncounteredReset = true;
+                    }                    
+                }
+                else if(greatestEncounteredReset)
+                {
+                    if(possibleGreatestNumberEncountered > array[i])
+                    {
+                        lessThanCount++;
 
+                        break;
                     }
+                    else if(possibleGreatestNumberEncountered < array[i] && max > array[i])
+                    {
+                        lessThanCount++;
 
-                    lessThanCount++;
+                        break;
+                    }                    
                 }
             }
 
-            canBeNonDescending = true;
+            if (lessThanCount < 2) canBeNonDescending = true;
 
             return canBeNonDescending;
         };
