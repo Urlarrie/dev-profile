@@ -14,28 +14,34 @@ Feel free to explore and hope you leave with something!
     - Java - *used mainly in school to learn OO development and testing*
     - Python - *used in research group to automate ETL(Extract-Transfer-Load) process for a reasearch database*
     - PostgreSQL - *used in research group to help edit and build a research database*
-    - JavaScript - *beginner web development*
-    - HTML - *beginner web development*
-    - CSS - *beginner web development*
+    - JavaScript - *Freelance Website development*
+    - HTML - *Freelance Website Development*
+    - CSS - *Freelance Website Development*
   - **Frameworks**
     - JUnit - *to test Java programs*
     - XUnit - *to test C# programs*
     - MSTest - *to test C# programs*
+    - React - *beginner level web development*
+  - **Preprocessors**
+    - SASS - (Syntactically Awesome Stylesheets)  
   - **IDE's and Engines**
     - Unity
-    - Visual Studio
+    - Visual Studio 2019
+    - Visual Studio Code
     - Eclipse
-
+  - **Design Software**
+    - Adobe  XD
+    - Adobe InDesign
 
 ## Projects
 ### Planned Projects
-- [ ] Development Website
 - [ ] Art Business Website
 - [ ] ML Journal Reader
 - [ ] Ozymandias
 - [ ] Dystopia
 ### In-Progress Projects
-- [ ] Unnamed Game
+- [ ] Development Website
+- [ ] Arctic Waters(Indie Game)
 ### Completed Projects
 - [X] Meltdown(School Project)
 ## Links
